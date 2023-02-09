@@ -1,3 +1,8 @@
 .document {
     background-image: url(banner1.png);
+    display: flex;
+}
+
+.rahat {
+    display: flex;
 }
